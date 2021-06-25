@@ -14,11 +14,15 @@ For more click help....</b>"""
 <code>🌀 Your Edited Image will be Uploaded </code>
 
 
-© @TroJanzHEX"""
+© @tech_marster & @sl_bot_zone"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Image-Editor'>Click Here</a>"""
+⭕️<b>GROUP :</b> 👉 <b>[TECH MARSTER](https://t.me/Tech_marster) & [SL BOT ZONE](https://t.me/sl_bot_zone)"""
+
+⭕<b>CRETED BY : [sadew🎭 rukshan](https://t.me/kmsrk)
+                 [supun maduranga](https://t.me/supunma)
+                 [sineth shehara](https://t.me/sineth_shehara) </b>
