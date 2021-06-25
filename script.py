@@ -22,9 +22,3 @@ For more click help....</b>"""
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
 ⭕️<b>GROUP :</b> 👉 <b>[TECH MARSTER](https://t.me/Tech_marster) & [SL BOT ZONE](https://t.me/sl_bot_zone)"""
-
-⭕<b>CRETED BY :</b>
- 
-♈<b>[sadew rukshan](https://t.me/kmsrk)</b>
-♈<b>[supun maduranga](https://t.me/supunma)</b>
-♈<b>[sineth shehara](https://t.me/sineth_shehara)</b>
