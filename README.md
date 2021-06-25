@@ -34,11 +34,11 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew12/Image-Editor)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Image-Editor
+git clone https://github.com/sadew12/Image-Editor
 cd Image-Editor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -52,8 +52,4 @@ python3 bot.py
 * API_HASH      - From my.telegram.org (or @UseTGXBot)
 * RemoveBG_API  - From [RemoveBG](https://www.remove.bg/b/background-removal-api)
 
-## Credits
-
-[![TroJanz](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
+##ᑕᖇEᗩTEᗪ ᗷY : SᗩᗪEᗯ;Sᑌᑭᑌᑎ;SIᑎETᕼ
