@@ -13,7 +13,6 @@ For more click help....</b>"""
 
 <code>🌀 Your Edited Image will be Uploaded </code>
 
-
 © @tech_marster & @sl_bot_zone"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
