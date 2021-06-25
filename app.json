@@ -8,11 +8,11 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/tech_marster",
+    "repository": "https://github.com/Sadew12/Image-Editor",
+    "success_url": "https://telegram.dog/tech_marster",
     "env": {
-        "TG_BOT_TOKEN": {
+        "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
