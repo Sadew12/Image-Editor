@@ -31,7 +31,7 @@
 #### An open source image editor which can manipulate an image in many ways!
 #### If you need any more modes in repo or If you find out any bugs, mention in @TroJanzSupport
 
-## Installation
+## Installation.
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew12/Image-Editor)
