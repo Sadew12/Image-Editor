@@ -23,6 +23,8 @@ For more click help....</b>"""
 
 ⭕️<b>GROUP :</b> 👉 <b>[TECH MARSTER](https://t.me/Tech_marster) & [SL BOT ZONE](https://t.me/sl_bot_zone)"""
 
-⭕<b>CRETED BY : [sadew🎭 rukshan](https://t.me/kmsrk)
-                 [supun maduranga](https://t.me/supunma)
-                 [sineth shehara](https://t.me/sineth_shehara) </b>
+⭕<b>CRETED BY :</b>
+ 
+♈<b>[sadew rukshan](https://t.me/kmsrk)</b>
+♈<b>[supun maduranga](https://t.me/supunma)</b>
+♈<b>[sineth shehara](https://t.me/sineth_shehara)</b>
